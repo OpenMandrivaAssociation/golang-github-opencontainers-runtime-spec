@@ -1,0 +1,9 @@
+import:
+- package: github.com/xeipuuv/gojsonreference
+  version: e02fc20de94c78484cd5ffb007f8af96be030a45
+- package: github.com/xeipuuv/gojsonschema
+  version: 93e72a773fade158921402d6a24c819b48aba29d
+- package: github.com/xeipuuv/gojsonpointer
+  version: e0fe6f68307607d540ed8eac07a342c33fa1b54a
+package: github.com/opencontainers/runtime-spec
+
